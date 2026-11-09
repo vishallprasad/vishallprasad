@@ -31,11 +31,11 @@ Experienced in coordinating customer onboarding, validating network connectivity
 ## 🏆 Honors & Awards
 
 - 🥇 **Initiatives for Data Center Activities Award** (2025)  
-  *Recognized for technical initiative, innovation, and problem-solving in telecom network operations.*  
+  *Recognized for key contributions, equipment installation, and hands-on operational support during data center infrastructure activities.*  
   📜 [View Award Certificate](./images/Data-Center-Initiative-Award-2025.png)
 
 - 🏅 **Initiative & Innovation Award** (2026)  
-  *Recognized for key contributions, equipment installation, and hands-on operational support during data center infrastructure activities.*  
+  *Recognized for technical initiative, innovation, and problem-solving in telecom network operations.*  
   📜 [View Award Certificate](./images/Initiative-Innovation-Award-2026.png)
 
 ## 🖥️ Data Center & Hardware Experience
