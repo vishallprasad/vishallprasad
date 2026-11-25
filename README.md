@@ -18,18 +18,17 @@
 - Data Center Infrastructure: Participated in infrastructure deployment, equipment installation, rack migration, and connectivity support activities.
 - Server Hardware: Hands-on experience with Dell PowerEdge servers, NIC installation, RAM upgrades, HDD replacement, and hardware maintenance.
 
-
 ## 📞 VoIP & Telecom Experience
 
-- SIP connectivity and VoIP service support.
+- VoIP service support and provisioning activities.
+- SIP connectivity validation and troubleshooting.
 - SIP signaling and RTP fundamentals.
 - SIP trunking and voice communication technologies.
-- Customer integration and connectivity validation.
 - Softphone testing using MicroSIP.
 - Exposure to Asterisk-based PBX environments.
-- Voice call testing and basic troubleshooting.
-- Understanding of audio codecs, including G.711 PCMA and PCMU.
-- Exposure to UCaaS and CCaaS environments.
+- Voice call testing and basic audio troubleshooting.
+- Understanding of G.711 PCMA and PCMU codecs.
+- Familiarity with UCaaS and CCaaS concepts.
 
 ## 🏆 Honors & Awards
 
@@ -42,10 +41,12 @@
   📜 [View Award Certificate](./images/Initiative-Innovation-Award-2026.png)
 
 ## 🖥️ Data Center & Hardware Experience
-- Data Center Migration: Participated in relocating fully equipped infrastructure racks between data centers, including servers, switches, firewalls, telecom nodes, Krone modules and voice infrastructure equipment. Performed rack setup, equipment mounting, cabling and connectivity, and arranged remote access for senior engineers to perform further configurations.
-- Server Hardware Installation: Hands-on experience installing network interface cards (NICs) and RAM modules in servers, replacing hard drives and performing hardware maintenance.
-- Telecom Infrastructure: Worked with Krone modules, telecom nodes and E1 transmission multiplexers.
-- Connectivity & Testing: Supported telecom node connectivity, equipment cabling, cable checks and ping testing during infrastructure deployment and customer provisioning.
+- Participated in enterprise data center infrastructure deployment and migration activities.
+- Gained practical exposure to server, switch and firewall installation.
+- Hands-on experience with Dell PowerEdge server hardware.
+- Assisted with NIC installation, RAM upgrades and HDD replacement.
+- Performed equipment mounting, cabling and basic connectivity checks.
+- Developed practical knowledge of enterprise hardware maintenance and infrastructure support.
 
 ## 🛠️ Technical Skills
 
