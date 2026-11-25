@@ -6,27 +6,30 @@
 
 📍 **Location:** Navi Mumbai, Maharashtra, India
 
-Telecom and network operations professional with hands-on experience in NOC operations, VoIP customer provisioning, SIP connectivity validation, P2P coordination, and data center infrastructure support.
-
-Experienced in coordinating customer onboarding, validating network connectivity, supporting VoIP integration, and performing end-to-end call testing.
+- Telecom and network operations professional with hands-on experience in NOC operations, VoIP service support, SIP connectivity validation, P2P coordination, and data center infrastructure activities.
+- I have hands-on exposure to customer connectivity support, network troubleshooting, VoIP integration testing, enterprise server hardware, and infrastructure deployment.
+- I am passionate about telecommunications, networking, voice technologies, and continuously developing my technical skills.
 
 ## 💼 Professional Experience & Technical Expertise
-- NOC Operations: Network monitoring, incident management, connectivity troubleshooting, voice quality, traffic performance and SLA monitoring.
-- P2P Connectivity & Feasibility: Service provider coordination, bandwidth requirements, IP configuration support and connectivity validation.
-- SIP & VoIP Provisioning: Customer onboarding, SIP trunk provisioning coordination, SIP prefix and IP sharing, customer-side IP whitelisting, MicroSIP testing and end-to-end call validation.
-- Data Center & Infrastructure Migration: Participated in multi-rack infrastructure relocation, including server, switch and firewall mounting, cabling, and telecom node connectivity.
-- Hardware & Infrastructure: Hands-on experience with Dell PowerEdge server installation, cabling, network interface card (NIC) installation, RAM module installation, HDD replacement and hardware maintenance.
+- NOC Operations: Experience in network monitoring, incident handling, connectivity troubleshooting, voice service support, and operational monitoring.
+- VoIP & SIP: Experience supporting VoIP provisioning activities, SIP connectivity validation, softphone testing, and call quality troubleshooting.
+- P2P Connectivity: Coordination and support for point-to-point connectivity requirements and network feasibility activities.
+- Network Troubleshooting: Practical experience with IP connectivity checks, ping testing, and basic network diagnostics.
+- Data Center Infrastructure: Participated in infrastructure deployment, equipment installation, rack migration, and connectivity support activities.
+- Server Hardware: Hands-on experience with Dell PowerEdge servers, NIC installation, RAM upgrades, HDD replacement, and hardware maintenance.
 
-## 🔄 End-to-End VoIP Customer Provisioning Workflow
 
-1. Feasibility & P2P Coordination: Raise customer location feasibility requests and coordinate P2P connectivity, bandwidth and channel requirements with the service provider.
-2. Capacity Planning: Coordinate voice channel and bandwidth requirements based on customer needs.
-3. IP Connectivity Validation: Guide customers through provider cable connectivity, assigned IP configuration and ping testing.
-4. SIP Connectivity Co-ordination: Share SIP prefix and IP details with customers and coordinate IP whitelisting for call routing validation.
-5. Softphone & Dialer Testing: Validate SIP calling using MicroSIP and support customer-side dialer integration and testing, including Asterisk-based environments.
-6. End-to-End Call Validation: Test call connectivity, troubleshoot provisioning-related issues and support customer go-live.
+## 📞 VoIP & Telecom Experience
 
-> **Role Scope & Confidentiality:** My responsibilities focus on customer provisioning, connectivity validation, and integration testing, while SBC configuration is handled by senior engineers. This workflow excludes customer-specific information and confidential infrastructure details.
+- SIP connectivity and VoIP service support.
+- SIP signaling and RTP fundamentals.
+- SIP trunking and voice communication technologies.
+- Customer integration and connectivity validation.
+- Softphone testing using MicroSIP.
+- Exposure to Asterisk-based PBX environments.
+- Voice call testing and basic troubleshooting.
+- Understanding of audio codecs, including G.711 PCMA and PCMU.
+- Exposure to UCaaS and CCaaS environments.
 
 ## 🏆 Honors & Awards
 
@@ -58,19 +61,32 @@ Experienced in coordinating customer onboarding, validating network connectivity
 
 
 ## 📚 Continuous Learning & Professional Development
+
+Currently focusing on strengthening my knowledge and practical skills in:
+
+- Cisco CCNA (200-301) certification preparation.
+- Computer networking and TCP/IP fundamentals.
+- Routing and switching concepts.
 - VoIP architecture and SIP signaling.
-- Telecom networking and connectivity troubleshooting.
-- Network operations and incident management.
+- Network troubleshooting and diagnostics.
 - PBX systems and unified communications.
 - Data center infrastructure and enterprise server hardware.
-- Voice communication technologies and transmission systems.
+- Network topology design using Cisco Packet Tracer.
 
-## 🔭 What I'm Up To
+## 🔭 What I'm Currently Working On
 
-- 📞 **Telecom Operations:** Managing end-to-end customer onboarding, P2P connectivity, SIP trunk provisioning, and call validation.
-- 🖥️ **Data Center & Server Support:** Executing server deployments, hardware maintenance (NIC/RAM/HDD), and rack migration activities.
-- 🎥 **Technical Content Creation:** Sharing hands-on networking and telecom tutorials on [YouTube](https://www.youtube.com/@vishallprasad) and my blog, [Vishall Tech](https://vishalltech.blogspot.com/).
-- 📚 **Professional Development:** Studying for the Cisco CCNA (200-301) certification and building Packet Tracer simulations for network topology and VoIP architecture.
+📞 Developing my knowledge of VoIP and SIP technologies.
+🌐 Practicing networking concepts and configurations using Cisco Packet Tracer.
+🖥️ Expanding my understanding of enterprise server hardware and data center infrastructure.
+📚 Preparing for the Cisco CCNA (200-301) certification.
+🎥 Creating technical content related to networking and telecommunications.
+
+## 🎥 Technical Content & Knowledge Sharing
+
+I enjoy sharing technical knowledge, practical learning experiences, and tutorials related to networking and telecommunications.
+
+- Technical Blog:[Vishall Tech](https://vishalltech.blogspot.com/)
+- YouTube: [YouTube](https://www.youtube.com/@vishallprasad)
 
 ## :trophy: My Github Stats:
 
@@ -81,12 +97,13 @@ Experienced in coordinating customer onboarding, validating network connectivity
 
 ## 🎯 Professional Interests
  - Telecommunications & VoIP Engineering
-- SIP Trunking & Voice Provisioning
+- SIP Trunking & Voice Technologies
 - NOC Operations & Network Monitoring
-- P2P Connectivity & Network Engineering
+- Network Engineering & Troubleshooting
 - PBX & Unified Communications
 - UCaaS & CCaaS Solutions
 - Data Center Infrastructure
+- Enterprise Server Hardware
 ---
 
 ## 📫 Connect With Me
@@ -108,5 +125,5 @@ I'm always interested in connecting with telecom professionals, VoIP engineers, 
 </p>
 
 <p align="center">
-  <i>Let's connect, collaborate, and explore technology together!</i>
+  <i>⭐ Let's connect, collaborate, share knowledge, and explore the world of networking and telecommunications together!</i>
 </p>
